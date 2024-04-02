@@ -95,3 +95,6 @@ clear_button.grid(row=5, column=4, padx=10, pady=5)
 
 
 root.mainloop()
+#pip install pyinstaller
+#pyinstaller --onefile app.py
+
